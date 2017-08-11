@@ -27,7 +27,7 @@ export default class Quiz extends Component {
     }
 
     componentDidMount(){
-        if (moment().isSameOrAfter(moment("19:00:00", 'hh:mm:ss'))) {
+        if (moment().isSameOrAfter(moment("21:00:00", 'hh:mm:ss'))) {
             let today = moment().format('DD-MM-YYYY');
             let quizCards = [];
             store.get(today).then((todayCards)=>{
@@ -103,7 +103,7 @@ export default class Quiz extends Component {
                                 this</Text>
                         </View>
                         <ProgressBar width={null} borderRadius={0} color="#68B832" unfilledColor="white"
-                                     borderColor="#EDC236" height={5} progress={1}/>
+                                     borderColor="#EDC236" height={5} progress={}/>
                         <View style={{flex: 1}}>
                             <SegmentedControls
                                 options={quizCard.options}
