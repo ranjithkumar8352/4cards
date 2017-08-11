@@ -103,7 +103,7 @@ export default class Quiz extends Component {
                                 this</Text>
                         </View>
                         <ProgressBar width={null} borderRadius={0} color="#68B832" unfilledColor="white"
-                                     borderColor="#EDC236" height={5} progress={}/>
+                                     borderColor="#EDC236" height={5} progress={1}/>
                         <View style={{flex: 1}}>
                             <SegmentedControls
                                 options={quizCard.options}
