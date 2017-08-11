@@ -1,0 +1,297 @@
+[
+  {
+    "name": "Word",
+    "description": "Meaning",
+    "synonyms": "Synonym"
+  },
+  {
+    "name": "COMMOTION",
+    "description": "A state of confused and noisy disturbance",
+    "synonyms": ["disturbance","ruckus"]
+  },
+  {
+    "name": "RETRACT",
+    "description": "To pull back/to take back",
+    "synonyms": ["withdraw","revoke"]
+  },
+  {
+    "name": "DISGUISE",
+    "description": "Give someone a different appearance in order to conceal ones identity",
+    "synonyms": ["pretend to be","impersonate"]
+  },
+  {
+    "name": "BAFFLE",
+    "description": "To confuse",
+    "synonyms": ["puzzle","bemuse"]
+  },
+  {
+    "name": "DISCREET",
+    "description": "Careful and prudent in ones speech or actions",
+    "synonyms": ["careful","cautious"]
+  },
+  {
+    "name": "VULNERABLE",
+    "description": "Exposed to the possibility of being attacked or harmed",
+    "synonyms": ["in danger","in peri"]
+  },
+  {
+    "name": "HAGGLE",
+    "description": "To bargain in a petty",
+    "synonyms": ["negotiate","quibble"]
+  },
+  {
+    "name": "CONTENTIOUS",
+    "description": "Causing or likely to cause an argument",
+    "synonyms": ["controversial","disputable"]
+  },
+  {
+    "name": "REPLENISH",
+    "description": "Fill something up again",
+    "synonyms": ["refill","recharge"]
+  },
+  {
+    "name": "RECUPERATE",
+    "description": "Recover from illness or exertion",
+    "synonyms": ["regain","recover"]
+  },
+  {
+    "name": "OBLIVIOUS",
+    "description": "Not aware of or concerned about what is happening around one",
+    "synonyms": ["unaware","ignorant"]
+  },
+  {
+    "name": "PARAMOUNT",
+    "description": "More important than anything else",
+    "synonyms": ["uppermost","supreme"]
+  },
+  {
+    "name": "ELOQUENT",
+    "description": "Fluent or persuasive in speaking or writing",
+    "synonyms": ["expressive","articulate"]
+  },
+  {
+    "name": "AMBIGUOUS",
+    "description": "Not having one obvious meaning",
+    "synonyms": ["equivocal","arguable"]
+  },
+  {
+    "name": "DILIGENT",
+    "description": "Attentive and persistent in doing anything",
+    "synonyms": ["industrious","assiduous"]
+  },
+  {
+    "name": "UNSOLICITED",
+    "description": "Given or supplied without being requested or asked for",
+    "synonyms": ["unwelcome","uninvited"]
+  },
+  {
+    "name": "CLAIRVOYANT",
+    "description": "Forecaster of the future",
+    "synonyms": ["psychic","\u00A0fortune teller"]
+  },
+  {
+    "name": "SERENDIPITY",
+    "description": "The occurrence of events by chance in a happy or beneficial way",
+    "synonyms": ["fluke","luck"]
+  },
+  {
+    "name": "PIVOTAL",
+    "description": "Of crucial importance",
+    "synonyms": ["essential","significant"]
+  },
+  {
+    "name": "OBNOXIOUS",
+    "description": "Highly objectionable or offensive, extremely unpleasant",
+    "synonyms": ["hateful","offensive"]
+  },
+  {
+    "name": "LUDICROUS",
+    "description": "Unreasonable and foolish",
+    "synonyms": ["ridiculous","idiotic"]
+  },
+  {
+    "name": "EXHILARATE",
+    "description": "Make someone feel very happy",
+    "synonyms": ["delight","elate"]
+  },
+  {
+    "name": "ATROCIOUS",
+    "description": "Extremely or shockingly wicked, cruel, or brutal",
+    "synonyms": ["inhuman","barbaric"]
+  },
+  {
+    "name": "SCRUTINIZE",
+    "description": "Examine or inspect closely and thoroughly.",
+    "synonyms": ["inspect","survey"]
+  },
+  {
+    "name": "WHEEDLE",
+    "description": "Use endearments or flattery to persuade someone to do something ",
+    "synonyms": ["inveigle","\u00A0lure"]
+  },
+  {
+    "name": "DETRIMENTAL",
+    "description": "Tending to cause harm",
+    "synonyms": ["harmful","\u00A0damaging"]
+  },
+  {
+    "name": "SUBJECTIVE",
+    "description": "Based on or influenced by personal feelings, tastes, or opinions",
+    "synonyms": ["instinctive","intuitive"]
+  },
+  {
+    "name": "EVOKE",
+    "description": "Bring or recall (a feeling, memory, or image) to the conscious mind.",
+    "synonyms": ["kindle","stimulate"]
+  },
+  {
+    "name": "DESPICABLE",
+    "description": "Deserving hatred and contempt",
+    "synonyms": ["contemptible","\u00A0loathsome"]
+  },
+  {
+    "name": "HINDER",
+    "description": "Make it difficult for someone to do something",
+    "synonyms": ["obstruct","impede"]
+  },
+  {
+    "name": "UNILATERAL",
+    "description": "Relating to or affecting only one side ",
+    "synonyms": ["one-sided",""]
+  },
+  {
+    "name": "AMBIGUOUS",
+    "description": "Not clear or decided",
+    "synonyms": ["equivocal","ambivalent"]
+  },
+  {
+    "name": "PHENOMENAL",
+    "description": "Remarkable or exceptional, especially exceptionally good.",
+    "synonyms": ["exceptional","extraordinary"]
+  },
+  {
+    "name": "IREVOCABLY",
+    "description": "In a way that cannot be changed, reversed, or recovered",
+    "synonyms": ["certainly","completely"]
+  },
+  {
+    "name": "EXCRUCIATING",
+    "description": "Intensely painful",
+    "synonyms": ["severe","acute"]
+  },
+  {
+    "name": "GREGARIOUS",
+    "description": "Fond of the company of others; sociable",
+    "synonyms": ["outgoing","friendly"]
+  },
+  {
+    "name": "HEDONIST",
+    "description": "A pleasure-seeker",
+    "synonyms": ["playboy","debauchee"]
+  },
+  {
+    "name": "INDELICATE",
+    "description": "Having or showing a lack of sensitive understanding or tact",
+    "synonyms": ["insensitive","tactless"]
+  },
+  {
+    "name": "MALINGER",
+    "description": "Pretend to be ill in order to escape duty or work",
+    "synonyms": ["sham","shirk"]
+  },
+  {
+    "name": "NIRVANA",
+    "description": "An ideal or idyllic state or place",
+    "synonyms": ["paradise","heaven"]
+  },
+  {
+    "name": "INSIDIOUS",
+    "description": "Proceeding in a gradual, subtle way, but with very harmful effects",
+    "synonyms": ["stealthy","surreptitious"]
+  },
+  {
+    "name": "PEEVISH",
+    "description": "Showing annoyance, irritation, or bad mood",
+    "synonyms": ["petulant","snappish"]
+  },
+  {
+    "name": "UBIQUITOUS",
+    "description": "Existing or being everywhere, especially at the same time",
+    "synonyms": ["omnipresent","universal"]
+  },
+  {
+    "name": "ECCENTRIC",
+    "description": "Unconventional and slightly strange",
+    "synonyms": ["weird","bizarre"]
+  },
+  {
+    "name": "NAP",
+    "description": "Sleep lightly or briefly, especially during the day.",
+    "synonyms": ["doze",""]
+  },
+  {
+    "name": "IMMACULATE",
+    "description": "Perfectly clean, neat, or tidy",
+    "synonyms": ["ultraclean","\u00A0pristine"]
+  },
+  {
+    "name": "FLIMSY",
+    "description": "Light and insubstantial, easily damaged",
+    "synonyms": ["insubstantial","\u00A0fragile"]
+  },
+  {
+    "name": "COUNTERFEIT",
+    "description": "Exact imitation of something valuable with the intention to deceive",
+    "synonyms": ["fake","bogus"]
+  },
+  {
+    "name": "BREACH",
+    "description": "An act of breaking a law, agreement, or code of conduct",
+    "synonyms": ["violation","\u00A0infringement"]
+  },
+  {
+    "name": "DISCOMFIT",
+    "description": "Feel uneasy or embarrassed",
+    "synonyms": ["discompose","\u00A0discomfort"]
+  },
+  {
+    "name": "ELUSIVE",
+    "description": "Difficult to find, catch, or achieve.",
+    "synonyms": ["evasive","slippery"]
+  },
+  {
+    "name": "CHARISMA",
+    "description": "Compelling attractiveness or charm that can inspire devotion in others",
+    "synonyms": ["presence","personality"]
+  },
+  {
+    "name": "INGENIOUS",
+    "description": "Clever, original, and inventive",
+    "synonyms": ["creative","imaginative"]
+  },
+  {
+    "name": "UNWHOLESOME",
+    "description": "Unhealthy",
+    "synonyms": ["noxious","poisonous"]
+  },
+  {
+    "name": "PRAGMATIC",
+    "description": "Dealing with things sensibly and realistically",
+    "synonyms": ["sensible","down-to-earth"]
+  },
+  {
+    "name": "SCARCE",
+    "description": "Insufficient for the demand",
+    "synonyms": ["in short supply","scant"]
+  },
+  {
+    "name": "EMINENT",
+    "description": "Famous and respected",
+    "synonyms": ["distinguished","renowned"]
+  },
+  {
+    "name": "CUTTHROAT",
+    "description": "Fierce and intense; involving the use of ruthless measures",
+    "synonyms": ["intense","aggressive"]
+  }
+]
