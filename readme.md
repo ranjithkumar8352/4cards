@@ -16,7 +16,7 @@ to help people get confident at spoken English.
 
 ### Features :
 
-* Lots of learning 
+* Effective learning - Only 4 words in a day!
 * Gamification - Different cards unlock at differnt times in a day with countdown timers
 * Pronunciation - Learn pronunciation of words as our minion speaks using *Text to speech* technology!
 * Translation - Words translated to your native language
