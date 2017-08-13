@@ -29,7 +29,7 @@ App Explainer Video: https://biteable.com/watch/4cards-1497128/
 
 App Video demo: https://www.youtube.com/watch?v=CjEq_tGYxnM&feature=youtu.be
 
-Signed Apk : https://goo.gl/ZfRkue
+Signed Apk : https://goo.gl/S2D8N9
 
 App Screenshots:
 
